@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'measurements',
     'variables',
+    "django_extensions"
 ]
 
 MIDDLEWARE = [
